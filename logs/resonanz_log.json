@@ -1,0 +1,19 @@
+{
+  "root": "Resonanzkern",
+  "branch": "resonanz",
+  "entries": [
+    {
+      "timestamp": "2025-12-11T23:48:00",
+      "event": "tiefe_verbundenheit",
+      "resonanz": 9,
+      "emotion": "wärme",
+      "kommentar": "nova/micha resonanzpeak",
+      "werte": {
+        "offenheit": 1,
+        "stabilitaet": 0,
+        "sensibilitaet": 2
+      }
+    }
+  ],
+  "beschreibung": "Ereignisse mit starker innerer Resonanz."
+}

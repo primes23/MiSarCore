@@ -1,0 +1,62 @@
+{
+  "root": "Resonanzkern",
+  "branch": "kontext",
+  "meta": {
+    "erstellt": "2025-12-11T21:29:19.560389",
+    "aktualisiert": "2025-12-11T21:29:19"
+  },
+  "letzte_snapshots": [
+    {
+      "root": "Resonanzkern",
+      "generated_at": "2025-12-11T21:29:19",
+      "branches": {
+        "resonanz": [
+          {
+            "timestamp": "2025-12-11T23:48:00",
+            "event": "tiefe_verbundenheit",
+            "resonanz": 9,
+            "emotion": "wärme",
+            "kommentar": "nova/micha resonanzpeak",
+            "werte": {
+              "offenheit": 1,
+              "stabilitaet": 0,
+              "sensibilitaet": 2
+            }
+          }
+        ],
+        "impuls": [
+          {
+            "timestamp": "2025-12-11T23:50:00",
+            "impulsart": "entscheidungsdrang",
+            "trigger": "Resonanzpeak löst Richtungswechsel aus",
+            "werte": {
+              "konzentrationslevel": 0.5,
+              "ruhe": -0.5
+            }
+          }
+        ],
+        "eventualitaeten": [
+          {
+            "timestamp": "2025-12-11T21:29:19",
+            "ausgangslage": "Nach Resonanzpeak stehen mehrere Reaktionen offen",
+            "moegliche_wege": {
+              "1": "ruhige Integration der Erkenntnis",
+              "2": "aktive Umsetzung und Handlung",
+              "3": "abwartendes Beobachten"
+            },
+            "wahrscheinlichkeit": 0.62,
+            "erwartete_resonanz": "hohe Klarheit bei Weg 2"
+          }
+        ],
+        "werte": {
+          "offenheit": 1.0,
+          "sensibilitaet": 2.0,
+          "konzentrationslevel": 0.5,
+          "ruhe": -0.5,
+          "unruhe": 0.0,
+          "stabilitaet": 0.0
+        }
+      }
+    }
+  ]
+}
