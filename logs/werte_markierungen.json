@@ -1,0 +1,30 @@
+{
+  "root": "Resonanzkern",
+  "branch": "werte",
+  "markers": {
+    "offenheit": 1.0,
+    "sensibilitaet": 2.0,
+    "konzentrationslevel": 0.5,
+    "ruhe": -0.5,
+    "unruhe": 0.0,
+    "stabilitaet": 0.0
+  },
+  "history": [
+    {
+      "timestamp": "2025-12-11T21:29:19",
+      "delta": {
+        "offenheit": 1,
+        "stabilitaet": 0,
+        "sensibilitaet": 2
+      }
+    },
+    {
+      "timestamp": "2025-12-11T21:29:19",
+      "delta": {
+        "konzentrationslevel": 0.5,
+        "ruhe": -0.5
+      }
+    }
+  ],
+  "hinweis": "Werte werden inkrementell angepasst (positiv/negativ)."
+}

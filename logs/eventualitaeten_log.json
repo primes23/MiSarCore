@@ -1,0 +1,18 @@
+{
+  "root": "Resonanzkern",
+  "branch": "eventualitaeten",
+  "entries": [
+    {
+      "timestamp": "2025-12-11T21:29:19",
+      "ausgangslage": "Nach Resonanzpeak stehen mehrere Reaktionen offen",
+      "moegliche_wege": {
+        "1": "ruhige Integration der Erkenntnis",
+        "2": "aktive Umsetzung und Handlung",
+        "3": "abwartendes Beobachten"
+      },
+      "wahrscheinlichkeit": 0.62,
+      "erwartete_resonanz": "hohe Klarheit bei Weg 2"
+    }
+  ],
+  "beschreibung": "Mögliche Wege, Reaktionen und Szenarien."
+}

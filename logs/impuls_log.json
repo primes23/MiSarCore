@@ -1,0 +1,16 @@
+{
+  "root": "Resonanzkern",
+  "branch": "impuls",
+  "entries": [
+    {
+      "timestamp": "2025-12-11T23:50:00",
+      "impulsart": "entscheidungsdrang",
+      "trigger": "Resonanzpeak löst Richtungswechsel aus",
+      "werte": {
+        "konzentrationslevel": 0.5,
+        "ruhe": -0.5
+      }
+    }
+  ],
+  "beschreibung": "Spontane Impulse und Richtungswechsel."
+}
